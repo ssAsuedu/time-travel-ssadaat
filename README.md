@@ -6,3 +6,4 @@ I am learning how to utilize Version Control systems and writing a Zine about ti
 ## Branches
  author/idea-sprint: home of author's drafts regarding topic 
 editor/review: allows editor to make edits to the author's working draft
+The content and intro files contain new information regarding the zine content.
