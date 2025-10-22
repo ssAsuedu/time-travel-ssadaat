@@ -1,2 +1,3 @@
 # Introduction
  This zine will be utilized to examine the ethics and discourse surrounding time travel via time machines.
+To simulate merge conflict: Time machines are science fiction devices...
